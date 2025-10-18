@@ -1,4 +1,4 @@
-# 🤖 Limon Bot
+forkrkrk🤖 Limon Bot
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=LIMON%20WHATSAPP%20BOT&fontSize=45&fontColor=ffffff&animation=fadeIn" />
@@ -21,7 +21,7 @@
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/MOHAMMAD-NAYAN-07/NAYAN-WHATSAPP-BOT/fork">
+  <a href="https://github.com/LIMON-WHATSAPP-BOT/Limon-Bot/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -60,7 +60,7 @@ For further customization and setup guidance, click the button below:
   <a href="https://t.me/hot_x_limon_ar_adda_gor">
     <img src="https://img.shields.io/badge/Join%20Telegram Channel-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram channel"/>
   </a><br>
-  <a href="https://t.me/whatsapp_Limon_Bot">
+  <a href="https://t.me/limon_whatsapp_bot">
     <img src="https://img.shields.io/badge/Join%20Telegram Support-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram support"/>
   </a>
 </div>
