@@ -1,7 +1,7 @@
 # 🤖 Limon Bot
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=LIMON-WHATSAPP-BOT %20WHATSAPP%20BOT&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=LIMON-WHATSAPP-BOT%20WHATSAPP%20BOT&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
