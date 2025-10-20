@@ -1,20 +1,20 @@
 {
   "packname": "My Sticker Pack",
   "author": "My Bot",
-  "botName": "Limon Bot",
-  "botOwner": "Limon Bbz",
-  "ownerNumber": "8801623442730",
+  "botName": "Nayan Bot",
+  "botOwner": "Mohammad Nayan",
+  "ownerNumber": "8801615298449",
   "botNumber": "Your Bot Number",
   "autoUpdate": true,
   "timeZone": "Asia/Dhaka",
   "botUid": "",
-  "PREFIX": ".",
+  "PREFIX": "/",
   "admin": [
     "your main number",
-    "your main number uid"
+    "your grp id"
   ],
-  "helpPic": "https://i.postimg.cc/pV7xByGv/IMG-20251007_090009.png",
-  "welPic": "https://i.postimg.cc/3JQF0qWf/received-filtered_image_1758333124748-01.jpeg",
+  "helpPic": "https://i.postimg.cc/pV7xByGv/IMG-20250106-WA0007.png",
+  "welPic": "https://i.postimg.cc/3JQF0qWf/received-383729254132460.jpg",
   "PORT": "3000",
   "delay": 100,
   "msg": {
